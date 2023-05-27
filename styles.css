@@ -1,5 +1,16 @@
 
 /* Your CSS Code here. */
-.table{
-	border:1px;
+table,td{
+	border:1px solid red;
+	border-radius:5px;
+	
+}
+td{
+	width:fill-box;
+	padding:10px;
+	margin:25%;
+	border-radius:5px;
+}
+tr:nth-child(2n+1){
+	color:yellow;
 }
