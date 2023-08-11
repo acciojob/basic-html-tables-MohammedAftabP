@@ -2,11 +2,8 @@
 /* Your CSS Code here. */
 table,td{
 	border:1px solid black;
-	
-	
 }
 td{
-	width:fill-box;
 	padding:10px;
 	margin:25%;
 
